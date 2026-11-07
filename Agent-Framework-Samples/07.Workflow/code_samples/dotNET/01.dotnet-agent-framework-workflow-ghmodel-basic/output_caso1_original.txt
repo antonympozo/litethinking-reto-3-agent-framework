@@ -1,0 +1,228 @@
+/Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/01.dotnet-agent-framework-workflow-ghmodel-basic.csproj : warning NU1603: 01.dotnet-agent-framework-workflow-ghmodel-basic depende de Microsoft.Extensions.AI (>= 10.10.1), pero no se encontró Microsoft.Extensions.AI 10.10.1. Microsoft.Extensions.AI 10.11.0 se resolvió en su lugar.
+/Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/01.dotnet-agent-framework-workflow-ghmodel-basic.csproj : warning NU1603: 01.dotnet-agent-framework-workflow-ghmodel-basic depende de Microsoft.Extensions.AI (>= 10.10.1), pero no se encontró Microsoft.Extensions.AI 10.10.1. Microsoft.Extensions.AI 10.11.0 se resolvió en su lugar.
+FrontDesk_f61069d6ab5343239952cb83ccc100fa: 
+FrontDesk_f61069d6ab5343239952cb83ccc100fa: Visit
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  the
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  E
+FrontDesk_f61069d6ab5343239952cb83ccc100fa: iff
+FrontDesk_f61069d6ab5343239952cb83ccc100fa: el
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  Tower
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  at
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  sunset
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  for
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  the
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  best
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  views
+FrontDesk_f61069d6ab5343239952cb83ccc100fa: —
+FrontDesk_f61069d6ab5343239952cb83ccc100fa: book
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  tickets
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  in
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  advance
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  to
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  skip
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  the
+FrontDesk_f61069d6ab5343239952cb83ccc100fa:  lines
+FrontDesk_f61069d6ab5343239952cb83ccc100fa: .
+FrontDesk_f61069d6ab5343239952cb83ccc100fa: 
+Concierge_90c7f3abea124111976c286c05eaa29d: 
+Concierge_90c7f3abea124111976c286c05eaa29d: While
+Concierge_90c7f3abea124111976c286c05eaa29d:  the
+Concierge_90c7f3abea124111976c286c05eaa29d:  E
+Concierge_90c7f3abea124111976c286c05eaa29d: iff
+Concierge_90c7f3abea124111976c286c05eaa29d: el
+Concierge_90c7f3abea124111976c286c05eaa29d:  Tower
+Concierge_90c7f3abea124111976c286c05eaa29d:  at
+Concierge_90c7f3abea124111976c286c05eaa29d:  sunset
+Concierge_90c7f3abea124111976c286c05eaa29d:  is
+Concierge_90c7f3abea124111976c286c05eaa29d:  und
+Concierge_90c7f3abea124111976c286c05eaa29d: eniably
+Concierge_90c7f3abea124111976c286c05eaa29d:  beautiful
+Concierge_90c7f3abea124111976c286c05eaa29d: ,
+Concierge_90c7f3abea124111976c286c05eaa29d:  it
+Concierge_90c7f3abea124111976c286c05eaa29d: 's
+Concierge_90c7f3abea124111976c286c05eaa29d:  also
+Concierge_90c7f3abea124111976c286c05eaa29d:  one
+Concierge_90c7f3abea124111976c286c05eaa29d:  of
+Concierge_90c7f3abea124111976c286c05eaa29d:  the
+Concierge_90c7f3abea124111976c286c05eaa29d:  most
+Concierge_90c7f3abea124111976c286c05eaa29d:  heavily
+Concierge_90c7f3abea124111976c286c05eaa29d:  tour
+Concierge_90c7f3abea124111976c286c05eaa29d: isted
+Concierge_90c7f3abea124111976c286c05eaa29d:  experiences
+Concierge_90c7f3abea124111976c286c05eaa29d:  in
+Concierge_90c7f3abea124111976c286c05eaa29d:  Paris
+Concierge_90c7f3abea124111976c286c05eaa29d: —
+Concierge_90c7f3abea124111976c286c05eaa29d: long
+Concierge_90c7f3abea124111976c286c05eaa29d:  lines
+Concierge_90c7f3abea124111976c286c05eaa29d: ,
+Concierge_90c7f3abea124111976c286c05eaa29d:  crowds
+Concierge_90c7f3abea124111976c286c05eaa29d: ,
+Concierge_90c7f3abea124111976c286c05eaa29d:  and
+Concierge_90c7f3abea124111976c286c05eaa29d:  a
+Concierge_90c7f3abea124111976c286c05eaa29d:  vibe
+Concierge_90c7f3abea124111976c286c05eaa29d:  that
+Concierge_90c7f3abea124111976c286c05eaa29d: 's
+Concierge_90c7f3abea124111976c286c05eaa29d:  more
+Concierge_90c7f3abea124111976c286c05eaa29d:  post
+Concierge_90c7f3abea124111976c286c05eaa29d: card
+Concierge_90c7f3abea124111976c286c05eaa29d:  than
+Concierge_90c7f3abea124111976c286c05eaa29d:  local
+Concierge_90c7f3abea124111976c286c05eaa29d: .
+Concierge_90c7f3abea124111976c286c05eaa29d:  For
+Concierge_90c7f3abea124111976c286c05eaa29d:  a
+Concierge_90c7f3abea124111976c286c05eaa29d:  traveler
+Concierge_90c7f3abea124111976c286c05eaa29d:  seeking
+Concierge_90c7f3abea124111976c286c05eaa29d:  something
+Concierge_90c7f3abea124111976c286c05eaa29d:  authentic
+Concierge_90c7f3abea124111976c286c05eaa29d: ,
+Concierge_90c7f3abea124111976c286c05eaa29d:  I
+Concierge_90c7f3abea124111976c286c05eaa29d: 'd
+Concierge_90c7f3abea124111976c286c05eaa29d:  suggest
+Concierge_90c7f3abea124111976c286c05eaa29d:  steering
+Concierge_90c7f3abea124111976c286c05eaa29d:  away
+Concierge_90c7f3abea124111976c286c05eaa29d:  from
+Concierge_90c7f3abea124111976c286c05eaa29d:  the
+Concierge_90c7f3abea124111976c286c05eaa29d:  mar
+Concierge_90c7f3abea124111976c286c05eaa29d: quee
+Concierge_90c7f3abea124111976c286c05eaa29d:  landmarks
+Concierge_90c7f3abea124111976c286c05eaa29d:  and
+Concierge_90c7f3abea124111976c286c05eaa29d:  toward
+Concierge_90c7f3abea124111976c286c05eaa29d:  experiences
+Concierge_90c7f3abea124111976c286c05eaa29d:  where
+Concierge_90c7f3abea124111976c286c05eaa29d:  Paris
+Concierge_90c7f3abea124111976c286c05eaa29d: ians
+Concierge_90c7f3abea124111976c286c05eaa29d:  actually
+Concierge_90c7f3abea124111976c286c05eaa29d:  spend
+Concierge_90c7f3abea124111976c286c05eaa29d:  their
+Concierge_90c7f3abea124111976c286c05eaa29d:  evenings
+Concierge_90c7f3abea124111976c286c05eaa29d: .
+
+
+Concierge_90c7f3abea124111976c286c05eaa29d: To
+Concierge_90c7f3abea124111976c286c05eaa29d:  refine
+Concierge_90c7f3abea124111976c286c05eaa29d:  the
+Concierge_90c7f3abea124111976c286c05eaa29d:  recommendation
+Concierge_90c7f3abea124111976c286c05eaa29d: :
+Concierge_90c7f3abea124111976c286c05eaa29d:  look
+Concierge_90c7f3abea124111976c286c05eaa29d:  for
+Concierge_90c7f3abea124111976c286c05eaa29d:  a
+Concierge_90c7f3abea124111976c286c05eaa29d:  neighborhood
+Concierge_90c7f3abea124111976c286c05eaa29d: -based
+Concierge_90c7f3abea124111976c286c05eaa29d:  evening
+Concierge_90c7f3abea124111976c286c05eaa29d:  experience
+Concierge_90c7f3abea124111976c286c05eaa29d: —
+Concierge_90c7f3abea124111976c286c05eaa29d: perhaps
+Concierge_90c7f3abea124111976c286c05eaa29d:  a
+Concierge_90c7f3abea124111976c286c05eaa29d:  sunset
+Concierge_90c7f3abea124111976c286c05eaa29d:  spot
+Concierge_90c7f3abea124111976c286c05eaa29d:  along
+Concierge_90c7f3abea124111976c286c05eaa29d:  the
+Concierge_90c7f3abea124111976c286c05eaa29d:  Seine
+Concierge_90c7f3abea124111976c286c05eaa29d:  or
+Concierge_90c7f3abea124111976c286c05eaa29d:  a
+Concierge_90c7f3abea124111976c286c05eaa29d:  canal
+Concierge_90c7f3abea124111976c286c05eaa29d:  where
+Concierge_90c7f3abea124111976c286c05eaa29d:  locals
+Concierge_90c7f3abea124111976c286c05eaa29d:  gather
+Concierge_90c7f3abea124111976c286c05eaa29d:  with
+Concierge_90c7f3abea124111976c286c05eaa29d:  a
+Concierge_90c7f3abea124111976c286c05eaa29d:  picnic
+Concierge_90c7f3abea124111976c286c05eaa29d: ,
+Concierge_90c7f3abea124111976c286c05eaa29d:  or
+Concierge_90c7f3abea124111976c286c05eaa29d:  a
+Concierge_90c7f3abea124111976c286c05eaa29d:  rooftop
+Concierge_90c7f3abea124111976c286c05eaa29d:  bar
+Concierge_90c7f3abea124111976c286c05eaa29d:  in
+Concierge_90c7f3abea124111976c286c05eaa29d:  a
+Concierge_90c7f3abea124111976c286c05eaa29d:  residential
+Concierge_90c7f3abea124111976c286c05eaa29d:  arr
+Concierge_90c7f3abea124111976c286c05eaa29d: ond
+Concierge_90c7f3abea124111976c286c05eaa29d: issement
+Concierge_90c7f3abea124111976c286c05eaa29d:  rather
+Concierge_90c7f3abea124111976c286c05eaa29d:  than
+Concierge_90c7f3abea124111976c286c05eaa29d:  a
+Concierge_90c7f3abea124111976c286c05eaa29d:  monument
+Concierge_90c7f3abea124111976c286c05eaa29d: .
+Concierge_90c7f3abea124111976c286c05eaa29d:  The
+Concierge_90c7f3abea124111976c286c05eaa29d:  key
+Concierge_90c7f3abea124111976c286c05eaa29d:  is
+Concierge_90c7f3abea124111976c286c05eaa29d:  to
+Concierge_90c7f3abea124111976c286c05eaa29d:  swap
+Concierge_90c7f3abea124111976c286c05eaa29d:  "
+Concierge_90c7f3abea124111976c286c05eaa29d: icon
+Concierge_90c7f3abea124111976c286c05eaa29d: ic
+Concierge_90c7f3abea124111976c286c05eaa29d:  view
+Concierge_90c7f3abea124111976c286c05eaa29d:  with
+Concierge_90c7f3abea124111976c286c05eaa29d:  advance
+Concierge_90c7f3abea124111976c286c05eaa29d:  tickets
+Concierge_90c7f3abea124111976c286c05eaa29d: "
+Concierge_90c7f3abea124111976c286c05eaa29d:  for
+Concierge_90c7f3abea124111976c286c05eaa29d:  "
+Concierge_90c7f3abea124111976c286c05eaa29d: l
+Concierge_90c7f3abea124111976c286c05eaa29d: ived
+Concierge_90c7f3abea124111976c286c05eaa29d: -in
+Concierge_90c7f3abea124111976c286c05eaa29d:  place
+Concierge_90c7f3abea124111976c286c05eaa29d:  where
+Concierge_90c7f3abea124111976c286c05eaa29d:  the
+Concierge_90c7f3abea124111976c286c05eaa29d:  view
+Concierge_90c7f3abea124111976c286c05eaa29d:  is
+Concierge_90c7f3abea124111976c286c05eaa29d:  a
+Concierge_90c7f3abea124111976c286c05eaa29d:  backdrop
+Concierge_90c7f3abea124111976c286c05eaa29d:  to
+Concierge_90c7f3abea124111976c286c05eaa29d:  local
+Concierge_90c7f3abea124111976c286c05eaa29d:  life
+Concierge_90c7f3abea124111976c286c05eaa29d: ."
+Concierge_90c7f3abea124111976c286c05eaa29d:  That
+Concierge_90c7f3abea124111976c286c05eaa29d:  shift
+Concierge_90c7f3abea124111976c286c05eaa29d: —
+Concierge_90c7f3abea124111976c286c05eaa29d: from
+Concierge_90c7f3abea124111976c286c05eaa29d:  spectacle
+Concierge_90c7f3abea124111976c286c05eaa29d:  to
+Concierge_90c7f3abea124111976c286c05eaa29d:  participation
+Concierge_90c7f3abea124111976c286c05eaa29d: —
+Concierge_90c7f3abea124111976c286c05eaa29d: is
+Concierge_90c7f3abea124111976c286c05eaa29d:  what
+Concierge_90c7f3abea124111976c286c05eaa29d:  separates
+Concierge_90c7f3abea124111976c286c05eaa29d:  a
+Concierge_90c7f3abea124111976c286c05eaa29d:  tourist
+Concierge_90c7f3abea124111976c286c05eaa29d:  checklist
+Concierge_90c7f3abea124111976c286c05eaa29d:  from
+Concierge_90c7f3abea124111976c286c05eaa29d:  an
+Concierge_90c7f3abea124111976c286c05eaa29d:  authentic
+Concierge_90c7f3abea124111976c286c05eaa29d:  Paris
+Concierge_90c7f3abea124111976c286c05eaa29d: ian
+Concierge_90c7f3abea124111976c286c05eaa29d:  evening
+Concierge_90c7f3abea124111976c286c05eaa29d: .
+
+
+Concierge_90c7f3abea124111976c286c05eaa29d: So
+Concierge_90c7f3abea124111976c286c05eaa29d: :
+Concierge_90c7f3abea124111976c286c05eaa29d:  not
+Concierge_90c7f3abea124111976c286c05eaa29d:  approved
+Concierge_90c7f3abea124111976c286c05eaa29d:  as
+Concierge_90c7f3abea124111976c286c05eaa29d: -is
+Concierge_90c7f3abea124111976c286c05eaa29d: ,
+Concierge_90c7f3abea124111976c286c05eaa29d:  but
+Concierge_90c7f3abea124111976c286c05eaa29d:  easily
+Concierge_90c7f3abea124111976c286c05eaa29d:  refined
+Concierge_90c7f3abea124111976c286c05eaa29d: .
+Concierge_90c7f3abea124111976c286c05eaa29d: 
+
+=== Final Output ===
+Visit the Eiffel Tower at sunset for the best views—book tickets in advance to skip the lines.While the Eiffel Tower at sunset is undeniably beautiful, it's also one of the most heavily touristed experiences in Paris—long lines, crowds, and a vibe that's more postcard than local. For a traveler seeking something authentic, I'd suggest steering away from the marquee landmarks and toward experiences where Parisians actually spend their evenings.
+
+To refine the recommendation: look for a neighborhood-based evening experience—perhaps a sunset spot along the Seine or a canal where locals gather with a picnic, or a rooftop bar in a residential arrondissement rather than a monument. The key is to swap "iconic view with advance tickets" for "lived-in place where the view is a backdrop to local life." That shift—from spectacle to participation—is what separates a tourist checklist from an authentic Parisian evening.
+
+So: not approved as-is, but easily refined.
+
+Mermaid string: 
+=======
+flowchart TD
+  FrontDesk_f61069d6ab5343239952cb83ccc100fa["FrontDesk_f61069d6ab5343239952cb83ccc100fa (Start)"];
+  Concierge_90c7f3abea124111976c286c05eaa29d["Concierge_90c7f3abea124111976c286c05eaa29d"];
+  FrontDesk_f61069d6ab5343239952cb83ccc100fa --> Concierge_90c7f3abea124111976c286c05eaa29d;
+=======
+
+DOT graph saved to: workflow.dot
+To generate image: dot -Tsvg workflow.dot -o workflow.svg
+                   dot -Tpng workflow.dot -o workflow.png

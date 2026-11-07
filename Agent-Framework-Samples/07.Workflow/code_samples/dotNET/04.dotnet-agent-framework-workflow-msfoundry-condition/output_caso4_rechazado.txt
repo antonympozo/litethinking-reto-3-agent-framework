@@ -1,0 +1,26 @@
+Starting workflow... (Mode: SHORT DRAFT -> Expected 'No' / Rejected Branch)
+DraftExecutor .......loading 
+Write a very short draft (strictly under 35 words total) summarizing AI Agents so we can test the rejection branch of the reviewer.
+DraftExecutor response: {"draft_content": "AI agents are autonomous software systems that perceive their environment, make decisions, and take actions to achieve goals. They combine reasoning, tools, and memory to work independently."}
+DraftExecutor generated content (27 words): AI agents are autonomous software systems that perceive their environment, make decisions, and take actions to achieve goals. They combine reasoning, tools, and memory to work independently.
+ContentReviewExecutor .......loading
+ContentReviewExecutor review result: No, reason: Content is too short
+
+=== WorkflowOutputEvent ===
+Draft content needs revision: Content is too short
+
+Mermaid string: 
+=======
+flowchart TD
+  DraftExecutor["DraftExecutor (Start)"];
+  ContentReviewExecutor["ContentReviewExecutor"];
+  PublishExecutor["PublishExecutor"];
+  SendReviewExecutor["SendReviewExecutor"];
+  DraftExecutor --> ContentReviewExecutor;
+  ContentReviewExecutor -. conditional .-> PublishExecutor;
+  ContentReviewExecutor -. conditional .-> SendReviewExecutor;
+=======
+
+DOT graph saved to: workflow.dot
+To generate image: dot -Tsvg workflow.dot -o workflow.svg
+                   dot -Tpng workflow.dot -o workflow.png

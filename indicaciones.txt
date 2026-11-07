@@ -1,0 +1,17 @@
+Reto 3. Ingeniería de Agentes con Microsoft Agent Framework
+
+Ejecución y extensión de workflows de agentes con .NET: patrones secuencial, concurrente y condicional (GitHub Models y Microsoft Foundry).
+
+Antes de iniciar el reto, el alumno debe tener instalado y verificado lo siguiente en su equipo (Windows + Visual Studio Code + Polyglot Notebooks):.
+
+Por favor descargar el pdf adjunto para ver los detalles del reto.
+
+Tareas:
+Carpeta o repositorio con los notebooks ejecutados (con sus salidas) y la modificación del caso 1.
+Evidencia (capturas o salida de consola) de:
+Verificación del entorno (versiones de herramientas y sesión de Azure).
+Ejecución exitosa de los casos 1, 2 y 3.
+Modelo desplegado en el proyecto de Foundry.
+Caso 4 en la rama aprobada y en la rama rechazada.
+Workflow extendido con el agente Translator y su salida en español.
+Breve documento (puede ser un README.md) con los comandos ejecutados, el nombre de los recursos utilizados en Azure y las respuestas a las preguntas conceptuales.
