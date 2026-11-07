@@ -16,14 +16,14 @@ Se completó la preparación del entorno, ejecución, análisis arquitectónico 
 | # | Criterio de Aceptación | Estado | Evidencia / Ubicación |
 | :-: | :--- | :-: | :--- |
 | **1** | **Entorno preparado y verificado** (`.NET SDK`, `git`, `az` y kernel `.NET C#`) | Cumplido | Sección 2 de este documento (`.NET 10.0.301`). |
-| **2** | **Gestión segura de credenciales** (`.env` ignorado por Git y eliminado al cerrar; sin secretos expuestos) | Cumplido | `.gitignore` actualizado y plantilla [`.env.example`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/.env.example). |
-| **3** | **Caso 1 ejecutado correctamente** (`FrontDesk` $\rightarrow$ `Concierge`) | Cumplido | [`output_caso1_original.txt`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/output_caso1_original.txt) y notebook `01...ipynb`. |
-| **4** | **Caso 2 ejecutado correctamente** (`Sales-Agent` $\rightarrow$ `Price-Agent` $\rightarrow$ `Quote-Agent` con `imgs/home.png`) | Cumplido | [`output_caso2.txt`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/02.dotnet-agent-framework-workflow-ghmodel-sequential/output_caso2.txt) y notebook `02...ipynb`. |
-| **5** | **Caso 3 ejecutado correctamente** (`Researcher-Agent` $\parallel$ `Plan-Agent` con Fan-Out / Fan-In) | Cumplido | [`output_caso3.txt`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/03.dotnet-agent-framework-workflow-ghmodel-concurrent/output_caso3.txt) y notebook `03...ipynb`. |
-| **6** | **Modelo configurado en el Caso 4** (Endpoint y deployment configurados mediante variables de entorno) | Cumplido | Sección 3 y [`04.../Program.cs`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/Program.cs). |
-| **7** | **Caso 4 — Rama Aprobada (`"Yes"`)**: `Publisher-Agent` guarda el tutorial en un archivo Markdown | Cumplido | [`output_caso4_aprobado.txt`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/output_caso4_aprobado.txt) y archivo generado [`20250521034512.md`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/20250521034512.md). |
-| **8** | **Caso 4 — Rama Rechazada (`"No"`)**: Se informa el motivo del rechazo sin invocar al `Publisher-Agent` | Cumplido | [`output_caso4_rechazado.txt`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/output_caso4_rechazado.txt) y notebook `04...ipynb`. |
-| **9** | **Workflow extendido con el agente `Translator`** (`FrontDesk` $\rightarrow$ `Concierge` $\rightarrow$ `Translator` en español) | Cumplido | [`output_caso1_translator.txt`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/output_caso1_translator.txt) y [`01.../Program.cs`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/Program.cs). |
+| **2** | **Gestión segura de credenciales** (`.env` ignorado por Git y eliminado al cerrar; sin secretos expuestos) | Cumplido | `.gitignore` actualizado y plantilla [`.env.example`](./Agent-Framework-Samples/.env.example). |
+| **3** | **Caso 1 ejecutado correctamente** (`FrontDesk` $\rightarrow$ `Concierge`) | Cumplido | [`output_caso1_original.txt`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/output_caso1_original.txt) y notebook `01...ipynb`. |
+| **4** | **Caso 2 ejecutado correctamente** (`Sales-Agent` $\rightarrow$ `Price-Agent` $\rightarrow$ `Quote-Agent` con `imgs/home.png`) | Cumplido | [`output_caso2.txt`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/02.dotnet-agent-framework-workflow-ghmodel-sequential/output_caso2.txt) y notebook `02...ipynb`. |
+| **5** | **Caso 3 ejecutado correctamente** (`Researcher-Agent` $\parallel$ `Plan-Agent` con Fan-Out / Fan-In) | Cumplido | [`output_caso3.txt`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/03.dotnet-agent-framework-workflow-ghmodel-concurrent/output_caso3.txt) y notebook `03...ipynb`. |
+| **6** | **Modelo configurado en el Caso 4** (Endpoint y deployment configurados mediante variables de entorno) | Cumplido | Sección 3 y [`04.../Program.cs`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/Program.cs). |
+| **7** | **Caso 4 — Rama Aprobada (`"Yes"`)**: `Publisher-Agent` guarda el tutorial en un archivo Markdown | Cumplido | [`output_caso4_aprobado.txt`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/output_caso4_aprobado.txt) y archivo generado [`20250521034512.md`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/20250521034512.md). |
+| **8** | **Caso 4 — Rama Rechazada (`"No"`)**: Se informa el motivo del rechazo sin invocar al `Publisher-Agent` | Cumplido | [`output_caso4_rechazado.txt`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/output_caso4_rechazado.txt) y notebook `04...ipynb`. |
+| **9** | **Workflow extendido con el agente `Translator`** (`FrontDesk` $\rightarrow$ `Concierge` $\rightarrow$ `Translator` en español) | Cumplido | [`output_caso1_translator.txt`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/output_caso1_translator.txt) y [`01.../Program.cs`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/Program.cs). |
 | **10** | **Explicación de conceptos clave** (`executor`, `edge` simple vs. condicional, `fan-out` y `fan-in`) | Cumplido | Sección 5 de este documento. |
 
 ---
@@ -103,7 +103,7 @@ var workflow = new WorkflowBuilder(frontDeskAgent)
     .Build();
 ```
 
-**Salida obtenida ([`output_caso1_original.txt`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/output_caso1_original.txt)):**
+**Salida obtenida ([`output_caso1_original.txt`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/output_caso1_original.txt)):**
 ```text
 --- [FrontDesk_f61069d6ab5343239952cb83ccc100fa] ---
 Visit the Eiffel Tower at sunset for the best views—book tickets in advance to skip the lines.
@@ -120,7 +120,7 @@ So: not approved as-is, but easily refined.
 
 ### 4.2 Extensión del Caso 1 (Paso 10) — Agente `Translator` (`FrontDesk` $\rightarrow$ `Concierge` $\rightarrow$ `Translator`)
 
-**Código de extensión implementado en [`01.../Program.cs`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/Program.cs):**
+**Código de extensión implementado en [`01.../Program.cs`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/Program.cs):**
 ```csharp
 AIAgent translatorAgent = openAIClient.GetChatClient(github_model_id).AsIChatClient().AsAIAgent(
     name: "Translator",
@@ -142,7 +142,7 @@ flowchart TD
   Concierge_7af36fdf313249f8b5b2342f5016173d --> Translator_4d663d9d81dd4961b6fea6f8f86fc740
 ```
 
-**Salida final en español ([`output_caso1_translator.txt`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/output_caso1_translator.txt)):**
+**Salida final en español ([`output_caso1_translator.txt`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/01.dotnet-agent-framework-workflow-ghmodel-basic/output_caso1_translator.txt)):**
 ```text
 --- [FrontDesk_5456ac475086466bb7153f85a5a11878] ---
 Visit the Eiffel Tower at sunset for the best views.
@@ -170,7 +170,7 @@ La cadena recibe `DataContent(imageBytes, "image/png")` correspondiente a `imgs/
 - **`Price-Agent`** desglosa rangos de precios por pieza en tres niveles (*Budget*: $\$1,725$, *Mid-Range*: $\$3,890$, *Premium*: $\$8,620$) más costos de entrega e instalación.
 - **`Quote-Agent`** estructura el documento final de cotización en Markdown (`Quotation No. Q-LR-2024-01`, total estimado con descuento por paquete: **$\$2,834.10\text{ USD}$**).
 
-**Extracto de la cotización generada por `Quote-Agent` ([`output_caso2.txt`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/02.dotnet-agent-framework-workflow-ghmodel-sequential/output_caso2.txt)):**
+**Extracto de la cotización generada por `Quote-Agent` ([`output_caso2.txt`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/02.dotnet-agent-framework-workflow-ghmodel-sequential/output_caso2.txt)):**
 ```markdown
 # FURNITURE PURCHASE QUOTATION
 **Prepared For:** Client — Living Room Refurnishing Project
@@ -200,7 +200,7 @@ La cadena recibe `DataContent(imageBytes, "image/png")` correspondiente a `imgs/
 
 ### 4.4 Caso 3 — Workflow Concurrente Fan-Out / Fan-In (`Researcher-Agent` $\parallel$ `Plan-Agent`)
 
-**Construcción del grafo concurrente en [`03.../Program.cs`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/03.dotnet-agent-framework-workflow-ghmodel-concurrent/Program.cs):**
+**Construcción del grafo concurrente en [`03.../Program.cs`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/03.dotnet-agent-framework-workflow-ghmodel-concurrent/Program.cs):**
 ```csharp
 var workflow = new WorkflowBuilder(startExecutor)
     .AddFanOutEdge(startExecutor, [researcherAgent, plannerAgent])
@@ -224,7 +224,7 @@ flowchart TD
   ConcurrentStartExecutor --> Plan_Agent
 ```
 
-**Evidencia de ejecución concurrente y agregación ([`output_caso3.txt`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/03.dotnet-agent-framework-workflow-ghmodel-concurrent/output_caso3.txt)):**
+**Evidencia de ejecución concurrente y agregación ([`output_caso3.txt`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/03.dotnet-agent-framework-workflow-ghmodel-concurrent/output_caso3.txt)):**
 ```text
 [Event 1] Type: WorkflowStartedEvent
 [Event 2] Type: SuperStepStartedEvent (Step = 0)
@@ -244,7 +244,7 @@ Ambos agentes se ejecutaron en paralelo dentro del `SuperStep 1` para `"Plan a t
 
 ### 4.5 Caso 4 — Workflow Condicional (`DraftExecutor` $\rightarrow$ `ContentReviewExecutor` $\rightarrow$ `"Yes"` / `"No"`)
 
-**Construcción del grafo condicional en [`04.../Program.cs`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/Program.cs):**
+**Construcción del grafo condicional en [`04.../Program.cs`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/Program.cs):**
 ```csharp
 var workflow = new WorkflowBuilder(draftExecutor)
     .AddEdge(draftExecutor, contentReviewerExecutor)
@@ -266,11 +266,11 @@ flowchart TD
   ContentReviewExecutor -. conditional ("No") .-> SendReviewExecutor
 ```
 
-#### A. Ejecución en la Rama Aprobada (`"Yes"`) — [`output_caso4_aprobado.txt`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/output_caso4_aprobado.txt)
+#### A. Ejecución en la Rama Aprobada (`"Yes"`) — [`output_caso4_aprobado.txt`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/output_caso4_aprobado.txt)
 1. `DraftExecutor` (`dotNETEvangelist`) redacta un tutorial técnico completo de **531 palabras** ($>200$ palabras) cubriendo *What is an AI Agent*, *Azure AI Foundry Agent Service* y *Microsoft Agent Framework*.
 2. `ContentReviewExecutor` (`dotNETContentReviewer`) evalúa la longitud y devuelve `review_result: "Yes"`, `reason: "The content is good"`.
 3. La condición `GetCondition(expectedResult: "Yes")` se evalúa como `true`, enrutando el flujo hacia `PublishExecutor`.
-4. `PublishExecutor` (`dotNETPublisher`) invoca la herramienta `SaveMarkdownFile` y persiste el archivo Markdown [`20250521034512.md`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/20250521034512.md) ($4,055\text{ caracteres}$):
+4. `PublishExecutor` (`dotNETPublisher`) invoca la herramienta `SaveMarkdownFile` y persiste el archivo Markdown [`20250521034512.md`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/20250521034512.md) ($4,055\text{ caracteres}$):
 ```text
 DraftExecutor generated content (531 words): # Introduction to AI Agents and Microsoft's Agent Ecosystem...
 ContentReviewExecutor .......loading
@@ -283,7 +283,7 @@ Response from PublishExecutor: The tutorial draft has been saved successfully as
 Publishing result: The tutorial draft has been saved successfully as **20250521034512.md**.
 ```
 
-#### B. Ejecución en la Rama Rechazada (`"No"`) — [`output_caso4_rechazado.txt`](file:///Users/marcoantoniopozoespinoza/antigravity-zero/litethinking/reto-certificacion-3/Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/output_caso4_rechazado.txt)
+#### B. Ejecución en la Rama Rechazada (`"No"`) — [`output_caso4_rechazado.txt`](./Agent-Framework-Samples/07.Workflow/code_samples/dotNET/04.dotnet-agent-framework-workflow-msfoundry-condition/output_caso4_rechazado.txt)
 1. Se ejecuta `dotnet run -- --short` solicitando un borrador muy corto; `DraftExecutor` genera **27 palabras** ($<200$ palabras).
 2. `ContentReviewExecutor` detecta que no supera el umbral de 200 palabras y devuelve `review_result: "No"`, `reason: "Content is too short"`.
 3. La condición `GetCondition(expectedResult: "No")` activa la arista hacia `SendReviewExecutor` y **omite por completo a `PublishExecutor`**:
